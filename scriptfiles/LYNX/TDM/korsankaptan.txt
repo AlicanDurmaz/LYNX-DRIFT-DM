@@ -1,0 +1,11 @@
+tdm=Korsanlar vs Kaptanlar
+takim1=Kaptan
+takim2=Korsan
+takim1skin=61
+takim2skin=32
+team1_x=-2366.7666
+team1_y=1536.1271
+team1_z=2.1172
+team2_x=-2345.1157
+team2_y=1543.5387
+team2_z=26.0469

@@ -1,0 +1,11 @@
+tdm=Askerler vs Teroristler
+takim1=Asker
+takim2=Terorist
+takim1skin=287
+takim2skin=134
+team1_x=-1304.2174
+team1_y=500.2982
+team1_z=11.1953
+team2_x=-1428.7493
+team2_y=502.1584
+team2_z=3.0391

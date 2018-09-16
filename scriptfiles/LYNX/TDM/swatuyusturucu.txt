@@ -1,0 +1,11 @@
+tdm=SWAT vs Uyusturucu Kacakcilari
+takim1=Uyusturucu Kacakcisi
+takim2=SWAT
+takim1skin=28
+takim2skin=285
+team1_x=-2180.2805
+team1_y=-262.6366
+team1_z=36.5156
+team2_x=-2131.2029
+team2_y=-116.2088
+team2_z=35.3203

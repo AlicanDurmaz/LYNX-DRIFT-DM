@@ -1,0 +1,11 @@
+tdm=Isciler vs Patronlar
+takim1=Patron
+takim2=Isci
+takim1skin=127
+takim2skin=27
+team1_x=2521.7654
+team1_y=2829.3005
+team1_z=10.8203
+team2_x=2582.9709
+team2_y=2730.0503
+team2_z=10.8203

@@ -1,0 +1,6 @@
+TotalRaces=5
+Race_0=FagRace
+Race_1=BMX
+Race_2=NRG
+Race_3=Elegy Race
+Race_4=Infernus Race

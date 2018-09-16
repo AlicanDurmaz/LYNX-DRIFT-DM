@@ -1,0 +1,11 @@
+tdm=Ballas vs Grove
+takim1=Ballas
+takim2=Grove
+takim1skin=104
+takim2skin=107
+team1_x=2235.2385
+team1_y=-1649.8796
+team1_z=15.3035
+team2_x=2497.1047
+team2_y=-1667.4536
+team2_z=13.3438

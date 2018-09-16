@@ -1,0 +1,11 @@
+tdm=Driftciler vs Otoparkcilar
+takim1=Driftci
+takim2=Otoparkci
+takim1skin=29
+takim2skin=37
+team1_x=2223.5090
+team1_y=1934.0631
+team1_z=31.7797
+team2_x=2305.3379
+team2_y=1962.9009
+team2_z=31.7752

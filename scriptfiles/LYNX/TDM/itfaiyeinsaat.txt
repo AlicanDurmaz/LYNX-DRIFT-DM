@@ -1,0 +1,11 @@
+tdm=Itfaiyeci vs Insaatci
+takim1=Itfaiyeci
+takim2=Insaatci
+takim1skin=277
+takim2skin=16
+team1_x=2385.8938
+team1_y=1912.3462
+team1_z=6.0156
+team2_x=2478.0635
+team2_y=1866.1774
+team2_z=10.8203
